@@ -29,6 +29,11 @@ a {
   background-color: #333;
 }
 
+.card:hover .btn {
+  background-color: #333;
+  color: #fff;
+}
+
 .card:hover {
   background-color: #e6e6e6;
   color: #000;
