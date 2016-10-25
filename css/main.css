@@ -12,3 +12,14 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 }
+
+.card {
+  background-color: #fff;
+  border: 3px solid #333;
+  border-radius: 7px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
